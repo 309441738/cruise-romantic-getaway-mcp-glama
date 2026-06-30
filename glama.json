@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "cruise-romantic-getaway",
+  "description": "为情侣提供浪漫邮轮之旅的精选产品，打造难忘的回忆。"
+}
